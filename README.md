@@ -1,18 +1,10 @@
 <h1>ORM JDBC JPA Hibernate Spring Data</h1>
 <h2>Introduction</h2>
-<p>Les Technologies ORM (Object Relational Mapping) sont des outils
-permattant de simplifier l'interaction entre les applications Java et les 
-bases de données relationnelles comme MySQL.</p>
-<p>JDBC (Java Database Connectivity) est une API Java standard pour la gestion des 
-bases de données relationnelles. JPA (Java Persistence API) est une spécification
-JEE qui définit une interface pour la gestion des entités et des relations entre
-les objets Java et les bases de données.</p>
-<p>Hibernate est un framework ORM populaire qui implémente la spécification
-JPA, facilitant ainsi la persistance des objets Java dans les bases de données.
- Spring Data simplifie encore d'avantage l'accès aux données en fournissant une couche
-d'abstraction pour la persistance des données, facilitant l'intégration
-de JDBC, JPA, Hibernate et d'autres technologies de gestion de données dans les applications
-Spring.</p>
+<p>Les Technologies ORM (Object Relational Mapping) sont des outils conçus pour simplifier l'interaction entre les applications Java et les bases de données relationnelles telles que MySQL.
+
+JDBC (Java Database Connectivity) représente une API Java standard destinée à la gestion des bases de données relationnelles. D'autre part, JPA (Java Persistence API) est une spécification JEE qui défini une interface pour gérer les entités et les relations entre les objets Java et les bases de données.
+
+Hibernate, un framework ORM très répandu, met en œuvre la spécification JPA, facilitant ainsi la persistance des objets Java dans les bases de données. De plus, Spring Data simplifie davantage l'accès aux données en offrant une couche d'abstraction pour la persistance des données. Cette abstraction facilite l'intégration de JDBC, JPA, Hibernate, ainsi que d'autres technologies de gestion de données dans les applications Spring.</p>
 <h2>Énoncé</h2>
 <ol>
     <li>Installer IntelliJ Ultimate</li>
